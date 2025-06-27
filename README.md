@@ -1,7 +1,7 @@
 # odin-recipes
 The purpose of this project will be to build a recipe website.
 
-The will allow for the opportunity to get practice building a basic website
+This will allow for the opportunity to get practice building a basic website
 using HTML. 
 
 Some of the skills that will be demonstrated are:
